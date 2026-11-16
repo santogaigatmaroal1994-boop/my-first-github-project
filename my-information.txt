@@ -6,3 +6,4 @@ Name: Santo Gai Buom
 I am learning GitHub.
 I want to become a skilled computer professional.
 This is my first practical project.
+My goal is to become an IT Professional
